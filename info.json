@@ -13,7 +13,7 @@
  {"name": "Intro",
        "description": "Intro",
        "mediaUrl": "https://www.youtube.com/embed/FC1GJkf4H2o",     
-       "source": "image",
+       "source": "youtube",
        "link": "https://www.youtube.com/watch?v=FC1GJkf4H2o"}],
 "deleted":false,
 "primaryColor":"#27b9ea",
