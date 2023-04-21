@@ -1,1 +1,32 @@
+{"name":"NuNet",
+"tokenSymbol":"NTX ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"NuNet is a lightweight peer-to-peer platform that enables the connection of various devices and AI/ML agents in a secure and decentralized manner. The core platform is open source and is free for anyone to use. We are building a globally decentralized computing framework that combines latent computing power of independently owned compute devices across the globe into a dynamic marketplace of compute resources, individually rewarded via a tokenomic ecosystem based on NuNet Utility Token (NTX). ",
+"whitePaperLink":"https://docs.nunet.io/nunet-whitepaper/?utm_campaign=Whitepaper+website",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/ECdEPSq.png",        
+       "source": "image",
+       "link": " https://medium.com/nunet/nunet-platform-and-use-case-functionalities-67e57e404f8" },
+ {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.youtube.com/embed/FC1GJkf4H2o",     
+       "source": "image",
+       "link": "https://www.youtube.com/watch?v=FC1GJkf4H2o"}],
+"deleted":false,
+"primaryColor":"#0a2042",
+"twitterHandle":"nunet_global",
+"coingeckoId":"nunet",
+"snapshotId":"",
+"logo":"https://i.imgur.com/GjLQtK1.png",
+"telegramLink":"",
+"discordLink":"https://t.me/NuNet_community",
+"website":"https://www.nunet.io/",
+"tokenDescription":" The NTX Utility Token has the purpose of powering the global economy of decentralized computing and its network tokenomics function now and in the future. . NTX Token provides access to the computing resources and services via the NuNet platform and ultimately settles the transactions between all constituents of a computational workflow provisioned via NuNet",
+"tokenTradeLink":"https://www.mexc.com/exchange/NTX_USDT",
+"tags":["Decentralized Computing"]
+  
+}
 
